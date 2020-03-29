@@ -11,6 +11,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="cardGame_lab" target="1.5" />
       <module name="day_5" target="1.5" />
     </bytecodeTargetLevel>
   </component>
