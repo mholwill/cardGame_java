@@ -23,12 +23,12 @@ public class DeckTest {
         assertEquals(52, deck.getCards());
     }
 
-//    @Test
-//    public void checkCanShuffleDeck(){
-//        deck.createDeck();
-//        deck.shuffleDeck();
-//        assertEquals(52, deck.getCards());
-//    }
+    @Test
+    public void checkCanShuffleDeck(){
+        deck.createDeck();
+        deck.shuffle();
+        assertEquals(52, deck.getCards());
+    }
 
 
 

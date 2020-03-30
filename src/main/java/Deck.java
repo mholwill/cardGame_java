@@ -9,9 +9,11 @@ private ArrayList<Card> cards;
 
     public Deck(){
         this.cards = new ArrayList<Card>();
+        createDeck();
+        shuffle();
     }
 
-    public List<Deck> createDeck() {
+    public void createDeck() {
         cards = new ArrayList<Card>();
         for (SuitType suit : SuitType.values()) {
             for (RankType rank : RankType.values()) {
@@ -19,11 +21,9 @@ private ArrayList<Card> cards;
                 cards.add(card);
             }
         }
-        return null;
     }
 
-    public void shuffleDeck(){
-        List<Deck> cards = this.createDeck();
+    public void shuffle(){
         Collections.shuffle(cards);
     }
 

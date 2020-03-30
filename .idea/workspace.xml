@@ -4,9 +4,6 @@
     <list default="true" id="ea3d08f1-396a-472a-b0f6-ef8cad4c5efb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Deck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Deck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DeckTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DeckTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Deck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/DeckTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/DeckTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +41,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
-  <component name="RunManager" selected="JUnit.DeckTest.checkDeckPopulated">
+  <component name="RunManager" selected="JUnit.DeckTest.checkCanShuffleDeck">
     <configuration name="Deck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Deck" />
       <module name="cardGame_lab" />
@@ -93,8 +90,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.DeckTest.checkDeckPopulated" />
         <item itemvalue="JUnit.DeckTest.checkCanShuffleDeck" />
+        <item itemvalue="JUnit.DeckTest.checkDeckPopulated" />
         <item itemvalue="JUnit.DeckTest" />
         <item itemvalue="JUnit.DeckTest.checkDeckEmpty" />
         <item itemvalue="Application.Deck" />
@@ -127,22 +124,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="230" key="GridCell.Tab.0.bottom" timestamp="1585513845103">
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom" timestamp="1585555613270">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.bottom/-265.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1585513845103" />
-    <state width="1398" height="230" key="GridCell.Tab.0.center" timestamp="1585513845102">
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom/-265.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1585555613270" />
+    <state width="1398" height="230" key="GridCell.Tab.0.center" timestamp="1585555613269">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.center/-265.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1585513845102" />
-    <state width="1398" height="230" key="GridCell.Tab.0.left" timestamp="1585513845102">
+    <state width="1398" height="230" key="GridCell.Tab.0.center/-265.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1585555613269" />
+    <state width="1398" height="230" key="GridCell.Tab.0.left" timestamp="1585555613269">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.left/-265.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1585513845102" />
-    <state width="1398" height="230" key="GridCell.Tab.0.right" timestamp="1585513845103">
+    <state width="1398" height="230" key="GridCell.Tab.0.left/-265.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1585555613269" />
+    <state width="1398" height="230" key="GridCell.Tab.0.right" timestamp="1585555613269">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.right/-265.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1585513845103" />
+    <state width="1398" height="230" key="GridCell.Tab.0.right/-265.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1585555613269" />
     <state width="1398" height="285" key="GridCell.Tab.1.bottom" timestamp="1585513311187">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
